@@ -1,7 +1,7 @@
 export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     {
         Age: 55,
-        Avatar: "assets/images/men/5.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/5.jpg",
         HireDate: new Date(2008, 3, 20),
         ID: 1,
         Name: "Johnathan Winchester",
@@ -10,7 +10,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 42,
-        Avatar: "assets/images/women/4.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/women/4.jpg",
         HireDate: new Date(2014, 1, 22),
         ID: 4,
         Name: "Ana Sanders",
@@ -19,7 +19,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 49,
-        Avatar: "assets/images/women/2.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/women/2.jpg",
         HireDate: new Date(2014, 1, 22),
         ID: 18,
         Name: "Victoria Lincoln",
@@ -28,7 +28,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 61,
-        Avatar: "assets/images/men/4.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/4.jpg",
         HireDate: new Date(2010, 1, 1),
         ID: 10,
         Name: "Yang Wang",
@@ -37,7 +37,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 43,
-        Avatar: "assets/images/men/1.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/1.jpg",
         HireDate: new Date(2011, 6, 3),
         ID: 3,
         Name: "Michael Burke",
@@ -46,7 +46,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 29,
-        Avatar: "assets/images/men/2.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/2.jpg",
         HireDate: new Date(2009, 6, 19),
         ID: 2,
         Name: "Thomas Anderson",
@@ -55,7 +55,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 31,
-        Avatar: "assets/images/women/3.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/women/3.jpg",
         HireDate: new Date(2014, 8, 18),
         ID: 11,
         Name: "Monica Reyes",
@@ -64,7 +64,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 35,
-        Avatar: "assets/images/men/3.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/3.jpg",
         HireDate: new Date(2015, 9, 17),
         ID: 6,
         Name: "Roland Mendel",
@@ -73,7 +73,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 44,
-        Avatar: "assets/images/men/6.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/6.jpg",
         HireDate: new Date(2009, 10, 11),
         ID: 12,
         Name: "Sven Cooper",
@@ -82,7 +82,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 44,
-        Avatar: "assets/images/men/7.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/7.jpg",
         HireDate: new Date(2014, 4, 4),
         ID: 14,
         Name: "Laurence Johnson",
@@ -91,7 +91,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 25,
-        Avatar: "assets/images/women/1.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/women/1.jpg",
         HireDate: new Date(2017, 11, 9),
         ID: 5,
         Name: "Elizabeth Richards",
@@ -100,7 +100,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 39,
-        Avatar: "assets/images/men/8.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/8.jpg",
         HireDate: new Date(2010, 3, 22),
         ID: 13,
         Name: "Trevor Ashworth",
@@ -109,7 +109,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 44,
-        Avatar: "assets/images/men/9.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/9.jpg",
         HireDate: new Date(2014, 4, 4),
         ID: 17,
         Name: "Antonio Moreno",
@@ -118,7 +118,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 50,
-        Avatar: "assets/images/men/10.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/10.jpg",
         HireDate: new Date(2007, 11, 18),
         ID: 7,
         Name: "Pedro Rodriguez",
@@ -127,7 +127,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 27,
-        Avatar: "assets/images/women/5.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/women/5.jpg",
         HireDate: new Date(2016, 2, 19),
         ID: 8,
         Name: "Casey Harper",
@@ -136,7 +136,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 25,
-        Avatar: "assets/images/women/6.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/women/6.jpg",
         HireDate: new Date(2017, 11, 9),
         ID: 15,
         Name: "Patricia Simpson",
@@ -145,7 +145,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 39,
-        Avatar: "assets/images/men/26.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/26.jpg",
         HireDate: new Date(2010, 3, 22),
         ID: 9,
         Name: "Francisco Chang",
@@ -154,7 +154,7 @@ export const EMPLOYEE_FLAT_AVATARS_DATA = () => ([
     },
     {
         Age: 25,
-        Avatar: "assets/images/men/27.jpg",
+        Avatar: "https://www.infragistics.com/angular-demos/assets/images/men/27.jpg",
         HireDate: new Date(2018, 3, 18),
         ID: 16,
         Name: "Peter Lewis",

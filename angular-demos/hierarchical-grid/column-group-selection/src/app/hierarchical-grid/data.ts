@@ -4,7 +4,7 @@ import { Singer } from "./models";
 export const SINGERS: Singer[] = [
     {
         Artist: "Naomí Yepes",
-        Photo: "assets/images/hgrid/naomi.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/naomi.jpg",
         Debut: 2011,
         GrammyNominations: 6,
         GrammyAwards: 0,
@@ -275,7 +275,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Babila Ebwélé",
-        Photo: "assets/images/hgrid/babila.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/babila.jpg",
         Debut: 2009,
         GrammyNominations: 0,
         GrammyAwards: 11,
@@ -481,7 +481,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Ahmad Nazeri",
-        Photo: "assets/images/hgrid/ahmad.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/ahmad.jpg",
         Debut: 2004,
         GrammyNominations: 3,
         GrammyAwards: 1,
@@ -506,7 +506,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Kimmy McIlmorie",
-        Photo: "assets/images/hgrid/kimmy.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/kimmy.jpg",
         Debut: 2007,
         GrammyNominations: 21,
         GrammyAwards: 3,
@@ -523,7 +523,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Mar Rueda",
-        Photo: "assets/images/hgrid/mar.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/mar.jpg",
         Debut: 1996,
         GrammyNominations: 14,
         GrammyAwards: 2,
@@ -531,7 +531,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Izabella Tabakova",
-        Photo: "assets/images/hgrid/izabella.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/izabella.jpg",
         Debut: 2017,
         GrammyNominations: 7,
         GrammyAwards: 11,
@@ -734,7 +734,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Nguyễn Diệp Chi",
-        Photo: "assets/images/hgrid/nguyen.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/nguyen.jpg",
         Debut: 1992,
         GrammyNominations: 4,
         GrammyAwards: 2,
@@ -751,7 +751,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Eva Lee",
-        Photo: "assets/images/hgrid/eva.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/eva.jpg",
         Debut: 2008,
         GrammyNominations: 2,
         GrammyAwards: 0,
@@ -768,7 +768,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Siri Jakobsson",
-        Photo: "assets/images/hgrid/siri.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/siri.jpg",
         Debut: 1990,
         GrammyNominations: 2,
         GrammyAwards: 8,
@@ -922,7 +922,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Pablo Cambeiro",
-        Photo: "assets/images/hgrid/pablo.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/pablo.jpg",
         Debut: 2011,
         GrammyNominations: 5,
         GrammyAwards: 0,
@@ -1059,7 +1059,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Athar Malakooti",
-        Photo: "assets/images/hgrid/athar.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/athar.jpg",
         Debut: 2017,
         GrammyNominations: 0,
         GrammyAwards: 0,
@@ -1076,7 +1076,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Marti Valencia",
-        Photo: "assets/images/hgrid/marti.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/marti.jpg",
         Debut: 2004,
         GrammyNominations: 1,
         GrammyAwards: 1,
@@ -1206,7 +1206,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Alicia Stanger",
-        Photo: "assets/images/hgrid/alicia.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/alicia.jpg",
         Debut: 2010,
         GrammyNominations: 1,
         GrammyAwards: 0,
@@ -1223,7 +1223,7 @@ export const SINGERS: Singer[] = [
     },
     {
         Artist: "Peter Taylor",
-        Photo: "assets/images/hgrid/peter.jpg",
+        Photo: "https://www.infragistics.com/angular-demos/assets/images/hgrid/peter.jpg",
         Debut: 2005,
         GrammyNominations: 0,
         GrammyAwards: 2,
