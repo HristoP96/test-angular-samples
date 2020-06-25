@@ -19,7 +19,7 @@ igx-banner {
   -ms-flex-align: center;
       align-items: center;
   padding: 24px 16px;
-  background-image: url("https://www.infragistics.com/angular-demos/assets/images/banner/cort.jpg"); }
+  background-image: url("https://staging.infragistics.com/angular-demos/assets/images/banner/cort.jpg"); }
   .profile__avatar {
     box-sizing: content-box;
     border: 2px solid rgba(0, 0, 0, 0.24);
